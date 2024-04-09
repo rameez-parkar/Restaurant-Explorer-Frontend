@@ -16,9 +16,9 @@ export class LexChatbotComponent {
     this.lexruntime = new AWS.LexRuntime({
       region: 'us-east-1',
       credentials: new AWS.Credentials({
-        accessKeyId: 'ASIAQ3EGPJQXZF3S5ZML',
-        secretAccessKey: '+owmQlUlVQnfcg+kQHwWokgpHgEpdvWcuCjBTmr2',
-        sessionToken: 'IQoJb3JpZ2luX2VjENj//////////wEaCXVzLXdlc3QtMiJHMEUCIEnf5wEAyDdKCaafKCqVlKQ/IX+Gk6GN8HovcxQi9ZjgAiEA1mkfChvUiWFdhl4d2IkXuRHnXcrlPIPFBtwkCo5yp5sqqQIIERAAGgwwNTgyNjQwNzk0MDciDHSzBzKzbct+nkZHSCqGAmANExub7yIj2VZweWGbvAVMeZQeKjsyj2mQz3EQq/0I80ICiUgOHGQt0QEjE9e6lN07Fya8LouU9wajeaiHpVjHaVkjRZoYMW0H5qx1/Gbk4BO0ladZMTHU+kZ92k7weaZH1GJLjR+txElojJyKeWOkPJ2cly6N1yL6F4UwcKWLYg7iHIj7NITh66lXLvknsuQUZJQSychKFly2UKVWsIE0GAMkGMO/od3lHujwCkXMiIlU3o6CuOHpKrSrSJx7MJDL3r3KLVs0xbP6nlZMlzB5HEl2RgMiTjeUmsV5IoQd+9aqkgP3qRG9dwSTLDhEy16f0bvw/+hHk0FfOidJX9IvKaimB04ws+7TsAY6nQHNKThsII0wO809tXK1CnhXJvY02DiOeq5ld32448ErUUb8TyeAJr5jveTmga13h3jyFRUgZ1jDzvQ9DKYdK+3/481sfnvdyAQgg+UyPfJBUNTyle4Uo286ghBlLNvw3UmNDitYStetsMkAt9Hu9JietXORawP2Wlu04Fk98ITXs4Djal3Mkxn9AngjIqVYmMLAIsxAv2KSg4kGpiUk'
+        accessKeyId: 'ASIAQ3EGPJQX54524UMB',
+        secretAccessKey: '9Am0Kj9RZuSQMnQDQJw5xWorxIbigLQzwyPPWJkt',
+        sessionToken: 'IQoJb3JpZ2luX2VjEOX//////////wEaCXVzLXdlc3QtMiJHMEUCIGfB1ZMhHvqhfL1Ebvft6KM+rBGhV/c9zAOXYv2vezWmAiEA9zlTIAnfo7Hn+wzpoZk9O0IqxJOv85Pww+R94JQWvKgqqQIIHhAAGgwwNTgyNjQwNzk0MDciDCrsfFXdZ3eZn/KgKiqGAhel3VIPA2mav72pNQ2msfy2aZ0ldT8RAwGVOsEAS9wMeiTPj9Ng2wu1ET0WPsinLNWmvkzmyA+qA5N98z19gfLkXys3bbh2Yyjm8X3Cygu57ik3EzGcon5V/gletbf0v+kX8sfPA1QSTFy4fBeJKkSM9elkbStKoj0JRK2abVhH83UQP7MJcqACKTh1QIIEs8CFNyk8+aEYMvHYocPODcwt5iVlmyoJY4Hal+H6bydF7HJMh4oOqTTi69i9ysuUpwcjQiUvxfxBSOohq9dSv3CFlEfJgQ7WnvwXeqfKSC9/7RwTAiRoZF40i647pcEuZW3lNIFp4TU9kzkk6330XiNjaGffo20wz9bWsAY6nQEXF6uiZYURkxA8xwyZGnvcWNXwW8pCJIHtYZLZxAuPczR+NZamc70rg34BLcDE3zuKs0B+MLElobAt8aQ4zrc8z+KwzSj674q7VhvZw1pgMPwOoOJDhJYBvqTt1hx2lOkNDVonQQFgUBjR8HZFx2zX09PthCI68MapkAE3nCTEO6a6YaqiHP0f4WePTwjPcHjUluLj9gSwH60rVKLe'
       })
     });
   }
