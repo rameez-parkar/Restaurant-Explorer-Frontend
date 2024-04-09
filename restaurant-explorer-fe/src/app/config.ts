@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://m60tjbpbla.execute-api.us-east-1.amazonaws.com/prod";
+export const BACKEND_URL = "https://5iuocgmz5g.execute-api.us-east-1.amazonaws.com/prod";
