@@ -1,0 +1,37 @@
+.app-bar {
+    display: flex;
+    font-family: 'Arial', sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #0073bb;
+    color: white;
+}
+  
+.app-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.app-name:hover {
+    cursor: pointer;
+}
+  
+.logout-button,
+.subscribe-button,
+.bookings-button,
+.help-button {
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+  
+.logout-button:hover,
+.subscribe-button:hover,
+.bookings-button:hover,
+.help-button:hover {
+    text-decoration: underline;
+}
+  
